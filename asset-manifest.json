@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/biblioteca-musical/static/css/main.b29c35aa.css",
+    "main.js": "/biblioteca-musical/static/js/main.3bac62cd.js",
+    "index.html": "/biblioteca-musical/index.html",
+    "main.b29c35aa.css.map": "/biblioteca-musical/static/css/main.b29c35aa.css.map",
+    "main.3bac62cd.js.map": "/biblioteca-musical/static/js/main.3bac62cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b29c35aa.css",
+    "static/js/main.3bac62cd.js"
+  ]
+}
